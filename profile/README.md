@@ -7,5 +7,5 @@ Currently, BioVisReport offers nineteen basic plots, and the excellent extensibi
 To better demonstrate the capabilities of BioVisReport, we provide an example based on the genomic and transcriptomic profiling of the Chinese Triple-Negative Breast Cancer cohort (Jiang, et al., 2019).
 
 <a href="https://www.youtube.com/watch?v=MZ1Kv75t_Mc" style="text-align: center;">
-  <img src="https://img.youtube.com/vi/MZ1Kv75t_Mc/0.jpg" width="100%" />
+  <img src="./Thumbnail.png" width="100%" />
 </a>
