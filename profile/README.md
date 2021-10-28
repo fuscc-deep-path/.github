@@ -9,3 +9,7 @@ To better demonstrate the capabilities of BioVisReport, we provide an example ba
 <a href="https://www.youtube.com/watch?v=MZ1Kv75t_Mc" style="text-align: center;">
   <img src="https://raw.githubusercontent.com/biovis-report/.github/main/profile/Thumbnail.png" width="100%" />
 </a>
+
+## Example
+
+You can clone [the example repo](https://github.com/biovis-report/biovis-report-example) to taste the biovis-report.
